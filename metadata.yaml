@@ -1,5 +1,8 @@
 _repo: Contes-pour-les-satyres_60998
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60998-h/images/cover.jpg
 creator:
   author:
     agent_name: Fourest, Georges
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51113
     wikipedia: https://fr.wikipedia.org/wiki/Georges_Fourest
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60998#Contes-pour-les-satyres
 gutenberg_issued: '2019-12-22'
 gutenberg_type: Text
 identifiers:
